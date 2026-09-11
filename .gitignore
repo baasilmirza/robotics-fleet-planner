@@ -1,0 +1,15 @@
+# Binaries
+/fleet
+/fleet.exe
+*.test
+*.test.exe
+*.exe
+
+# Generated frames
+/out/
+*.svg
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
